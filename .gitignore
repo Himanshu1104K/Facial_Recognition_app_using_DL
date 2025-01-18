@@ -1,3 +1,6 @@
 lfw.tgz
 lfw
 data
+training_checkpoints
+application_data
+siamese_model.keras
